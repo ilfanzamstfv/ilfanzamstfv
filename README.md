@@ -15,5 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaspersky21&show_icons=true&locale=en&layout=compact" alt="kaspersky21" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaspersky21&show_icons=true&locale=en" alt="kaspersky21" /></p>
