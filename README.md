@@ -2,5 +2,6 @@
 Perkenalkan nama saya **Muhammad Ilfanza Mustafavi**
 
 Saya mahasiswa dari **Universitas Pembangunan Jaya**
-(![image](https://user-images.githubusercontent.com/83349619/190570709-4ed12fce-1467-4a00-8d13-7856067cde77.png)
-)
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
