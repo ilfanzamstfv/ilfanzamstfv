@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone!!! I'm Muhammad Ilfanza Mustafavi</h1>
-<h3 align="center">Student from University of Pembangunan Jaya</h3>
+<h3 align="center">College Student from University of Pembangunan Jaya</h3>
 
 - 📫 How to reach me **ilfanza212@gmail.com**
 
