@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ilfanza212@gmail.com**
 
-- ⚡ Fun fact **Bottom fragger on Valorant**
+- ⚡ Fun fact **Always learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
