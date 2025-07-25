@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ilfanza</h1>
-<h3 align="center">Web Developer and Machine Learning</h3>
+<h3 align="center">Website, Application and Machine Learning Developer</h3>
 
 - 🌱 I’m currently learning **Next.JS**
 
