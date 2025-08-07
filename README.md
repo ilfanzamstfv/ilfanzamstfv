@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ilfanza</h1>
-<h3 align="center">Website, Application and Machine Learning Developer</h3>
+<h3 align="center">Website, application developer and UI/UX designer</h3>
 
 - 🌱 I’m currently learning **Next.JS**
 
@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilfanzamstfv&show_icons=true&locale=en&layout=compact" alt="ilfanzamstfv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilfanzamstfv&show_icons=true&locale=en" alt="ilfanzamstfv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilfanzamstfv&" alt="ilfanzamstfv" /></p>
