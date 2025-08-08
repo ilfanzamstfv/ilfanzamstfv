@@ -1,4 +1,4 @@
-<img src="" />
+<img src="banner.png" />
 
 <p align="center">
 🌱 I’m currently learning <strong>Next.JS<strong/> <br/>
