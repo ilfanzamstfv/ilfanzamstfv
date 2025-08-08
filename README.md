@@ -1,9 +1,8 @@
 <img src="banner.png" />
 
-<p align="center">
-🌱 I’m currently learning <strong>Next.JS<strong/> <br/>
+<h3 align="center">
 👨🏻‍💻 Debugging is fun 😊
-</p>
+</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
