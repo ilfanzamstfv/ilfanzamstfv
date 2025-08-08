@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ilfanza</h1>
-<h3 align="center">Website, application developer and UI/UX designer</h3>
+<img src="header.png" />
 
 - 🌱 I’m currently learning **Next.JS**
 
