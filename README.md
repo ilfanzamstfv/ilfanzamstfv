@@ -1,7 +1,7 @@
 <img src="banner.png" />
 
 <h3 align="center">
-👨🏻‍💻 Debugging is fun 😊
+👨🏻‍💻 Vibe Coders 👨🏻‍💻
 </h3>
 
 <h3 align="center">Connect with me:</h3>
